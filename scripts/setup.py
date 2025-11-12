@@ -1,10 +1,10 @@
-# import os
-# import sys
-# import subprocess
-# from pathlib import Path
-# import getpass
-# import psycopg2
-# from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
+import os
+import sys
+import subprocess
+from pathlib import Path
+import getpass
+import psycopg2
+from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 
 
 def check_python_version():
